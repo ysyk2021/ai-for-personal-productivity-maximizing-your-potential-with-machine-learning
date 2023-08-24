@@ -1,5 +1,3 @@
-Automated Distraction Management using AI
-===============================================================================================
 
 In this chapter, we will explore how AI can help us enhance our focus and concentration by managing distractions. We will discuss some of the techniques that are being used for automated distraction management using AI.
 

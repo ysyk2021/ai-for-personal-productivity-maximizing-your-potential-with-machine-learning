@@ -1,5 +1,3 @@
-Automated Task Delegation and Prioritization using AI
-====================================================================================================================
 
 In this chapter, we will explore how AI can be used to streamline daily workflows and processes by automating task delegation and prioritization. We will discuss how AI algorithms can be used to assign tasks to the most appropriate team members and prioritize tasks based on urgency and importance.
 

@@ -1,5 +1,3 @@
-AI-Powered Focus and Concentration Assistance
-===================================================================================================
 
 In today's fast-paced digital world, distractions are everywhere. From social media notifications to email alerts, it can be challenging to stay focused and productive. Fortunately, AI-powered focus and concentration assistance can help.
 

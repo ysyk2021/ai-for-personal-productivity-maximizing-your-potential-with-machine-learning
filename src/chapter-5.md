@@ -1,5 +1,3 @@
-Chapter 5: Improving Goal-Setting and Achievement with AI
-=========================================================
 
 In this chapter, we will explore how AI can help us improve our goal-setting and achievement. We will discuss some of the techniques that are being used for AI-driven goal-setting and also look at how AI can provide personalized goal-setting recommendations and interventions.
 
