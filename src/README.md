@@ -10,3 +10,7 @@ In this book, we will explore the benefits and potential applications of AI tech
 By leveraging AI technology in personal productivity, individuals can optimize their efficiency, effectiveness, and impact. However, it is essential to manage potential ethical and bias concerns and adhere to regulations and standards that govern the use of AI technology. With these considerations in mind, individuals can maximize their potential and achieve greater levels of productivity and success.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
