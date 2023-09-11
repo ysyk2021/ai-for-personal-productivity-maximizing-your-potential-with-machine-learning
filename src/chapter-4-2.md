@@ -1,5 +1,4 @@
-Chapter 8: Automated Distraction Management Using AI
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the concept of automated distraction management using AI and its role in maximizing personal productivity. As distractions become increasingly prevalent in our digital lives, AI technologies offer innovative solutions to help individuals mitigate interruptions, maintain focus, and optimize their workflow. This chapter will cover key aspects of automated distraction management using AI, including:
 

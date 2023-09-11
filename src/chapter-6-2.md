@@ -1,5 +1,4 @@
-Chapter 5: Automated Task Delegation and Prioritization Using AI
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the concept of automated task delegation and prioritization using AI and its potential to enhance personal productivity. With the help of AI technologies, individuals can optimize their workflow by leveraging machine learning algorithms to delegate tasks efficiently and prioritize them effectively. This chapter will cover key aspects of automated task delegation and prioritization, including:
 
